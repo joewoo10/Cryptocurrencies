@@ -1,0 +1,5 @@
+# Cryptocurrencies
+
+### Project Overview
+
+One of our most treasured clients, Accountability Accounting, is seeking to offer a new cryptocurrency investment portfolio to its customers. We agreed to assist Martha, a senior manager at Accountability Accounting, in creating a report that will detail what cryptocurrencies are on the trading market and how they can be grouped for investment classification. There are certainly many cryptocurrencies that are more affordable than Bitcoin on the market and Marta has a dataset of cryptocurrencies that we can analyze anyway we want. Our goal is to help Marta discover trends using unsupervised machine learning that will encourage her firm to invest in new cryptocurrencies. The data presented is not clean, therefore it needed to be processed to fit the machine learning models using unsupervised learning as there is no known output as to what we are looking for in terms of results. Unsupervised learning was used to process data, cluster, reduce dimensions, and reduce the principal components of PCA, to present our findings.
